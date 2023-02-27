@@ -1,6 +1,3 @@
-# assignment1mahoney
-Jessica Mahoney's submission for assignment 1.
-
 # HTML CSS Git Challenge: Code Refactor
 
 A website owner wants to keep his/her website visually the same, but would like it to be much more accessible. As a front-end developer, it will be my job to condence this. 
