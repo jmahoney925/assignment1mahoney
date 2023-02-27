@@ -74,6 +74,8 @@ and
 #benefit-brand,
 #benefit-cost
 
+## The actual code is under index.html in this repo.
+
 ## Could this be improved further?
 
 For furture developers who look at this code, I am sure there is more condencing that could be done for this code. 
